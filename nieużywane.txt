@@ -1,0 +1,6 @@
+# from face_detectors import CaffemodelDetector, CNNDetector, HogDetector, Ultralight320Detector, Ultralight640Detector
+
+# # import dlib
+# # detector = HogDetector()
+# detector = Ultralight320Detector()
+# detector = Ultralight640Detector()
