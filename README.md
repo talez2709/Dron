@@ -35,3 +35,6 @@ Następnie uruchamiane jest kilka wątków:
 * Detekcja_rysowanie
 * Sterowanie_dronem
 * Klawiatura_klawisze
+
+Przykład działania\
+![](https://github.com/talez2709/Dron/blob/main/demo.gif)
